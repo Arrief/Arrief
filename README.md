@@ -1,5 +1,5 @@
-<h1 align="center">Hello World 👋, I'm Arne</h1>
-<p align="center" style="margin-top: 30px">I'm a web developer with a passion for learning, logic and combining both to create meaningful web applications.</p>
+<h1 align="center">Hello World 👋, I'm Arne!</h1>
+<p align="center" style="margin-top: 30px">💻 I'm a web developer with a passion for learning, logic and combining both to create meaningful web applications. 💻</p>
 
 <br />
 
