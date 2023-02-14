@@ -41,5 +41,5 @@
 <hr />
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arrief&show_icons=true&locale=en&layout=compact" alt="arrief" style="margin: 20px 0"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Arrief&show_icons=true&locale=en&layout=compact" alt="Arrief" style="margin: 20px 0"/></p>
 </div>
