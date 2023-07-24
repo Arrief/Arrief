@@ -1,11 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Arne!</h1>
-<p align="center" style="margin-top: 30px">💻 I am a web developer with a passion for learning, logic and combining both in order to create meaningful web applications. 💻</p>
-
-<br />
-
-<div align="center">
-🌱 I’m currently learning: <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 0 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="20" /></a> <strong>TypeScript</strong>
-</div>
+<p align="center" style="margin-top: 30px">💻 I am a web developer with a passion for learning, logic and combining both in order to create beautiful and meaningful web applications. 💻</p>
 
 <br />
 <hr />
@@ -13,7 +7,8 @@
 <h3 align="center" style="margin-top: 30px">My Skillset:</h3>
 
 <div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="60" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
