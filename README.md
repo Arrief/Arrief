@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Arne!</h1>
-<p align="left" style="margin-top: 30px">I am a web developer with a passion for logic and learning new things. Web development is my profession as well as my creative outlet to apply both logical thinking and my learnings in order to solve interesting coding problems and create beautiful and meaningful applications. 💻</p>
+<p align="left" style="margin-top: 30px">I am a naturally curious guy with a passion for logic and learning new things. Web development is my profession as well as my creative outlet to apply both logical thinking and my learnings in order to solve interesting coding problems and create beautiful and meaningful applications. 💻</p>
 
 <br />
 <hr />
