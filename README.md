@@ -7,7 +7,7 @@
 <h3 align="center" style="margin-top: 30px">My Skillset:</h3>
 
 <div align="center">
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -46,10 +46,13 @@
 <br />
 <hr />
 
-<h3 align="center" style="margin-top: 30px">Connect with me on LinkedIn:</h3>
+<h3 align="center" style="margin-top: 30px">Connect with me on:</h3>
 <div align="center">
 <a href="https://linkedin.com/in/arne-rief" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
+<img alt="linkedin.com/in/arne-rief" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://gitlab.com/arrief" target="_blank">
+<img alt="gitlab.com/arrief" src="https://img.shields.io/badge/GitLab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=orange" />
 </a>
 </div>
 
