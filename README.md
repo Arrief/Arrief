@@ -48,12 +48,8 @@
 
 <h3 align="center" style="margin-top: 30px">Connect with me on:</h3>
 <div align="center">
-<a href="https://linkedin.com/in/arne-rief" target="_blank">
-<img alt="linkedin.com/in/arne-rief" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://gitlab.com/arrief" target="_blank">
-<img alt="gitlab.com/arrief" src="https://img.shields.io/badge/GitLab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=orange" />
-</a>
+<a href="https://linkedin.com/in/arne-rief" target="_blank"><img alt="linkedin.com/in/arne-rief" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://gitlab.com/arrief" target="_blank" style="text-decoration: none;"><img alt="gitlab.com/arrief" src="https://img.shields.io/badge/GitLab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=orange" /></a>
 </div>
 
 <hr />
